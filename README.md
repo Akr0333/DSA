@@ -1,37 +1,52 @@
-# Data Structures & Algorithms Projects
+# Data Structures & Algorithms 🚀
 
-A collection of practical DSA implementations and problem-solving projects in Java.
+A hands-on collection of **Data Structures and Algorithms implementations in Java**, built for learning, interview preparation and problem solving.
 
-## Projects
+## 📚 Projects
 
-### 1. Sorting Algorithm Visualiser (Console)
-Compare Bubble Sort, Selection Sort, Insertion Sort, Merge Sort and Quick Sort with operation counts.
+| Project | Concepts |
+|---|---|
+| 🔄 Sorting Algorithms | Bubble Sort, Insertion Sort, complexity |
+| 🌳 Binary Search Tree | Insert, search, traversal |
+| 🕸️ Graph Traversal | BFS, DFS, adjacency lists |
+| 🔗 Singly Linked List | Insert, delete, traversal |
+| 📦 Stack & Queue | LIFO/FIFO operations |
+| ⚡ LRU Cache | Hashing, LinkedHashMap, caching |
+| 🧮 Dynamic Programming | Bottom-up Fibonacci |
 
-### 2. Binary Search Tree Manager
-Insert, search, delete and traverse nodes using a Binary Search Tree.
+## 🧠 Topics Covered
 
-### 3. Graph Traversal Toolkit
-Build a graph and perform Breadth-First Search (BFS) and Depth-First Search (DFS).
-
-### 4. LRU Cache
-Implement an LRU cache using a HashMap and doubly linked list to demonstrate efficient O(1) access and eviction.
-
-### 5. Expression Evaluator
-Convert infix expressions to postfix notation and evaluate postfix expressions using stacks.
-
-## Topics Covered
-- Arrays and Strings
+- Arrays & Strings
 - Linked Lists
-- Stacks and Queues
+- Stacks & Queues
 - Hashing
-- Trees and Binary Search Trees
-- Graphs, BFS and DFS
-- Sorting and Searching
+- Trees & BSTs
+- Graphs, BFS & DFS
+- Sorting & Searching
 - Recursion
-- Time and Space Complexity
+- Dynamic Programming
+- Time & Space Complexity
 
-## Language
+## ☕ Language
+
 **Java**
 
-## Goal
-These projects are intended for DSA practice, coding interviews, competitive programming, and strengthening problem-solving skills.
+## ▶️ Run a Project
+
+```bash
+javac FileName.java
+java ClassName
+```
+
+Check each project folder for the corresponding source file.
+
+## 🎯 Goals
+
+- Strengthen problem-solving skills
+- Understand algorithmic complexity
+- Prepare for coding interviews
+- Build a practical DSA portfolio
+
+---
+
+⭐ **Learn the data structure. Understand the algorithm. Solve the problem.**
