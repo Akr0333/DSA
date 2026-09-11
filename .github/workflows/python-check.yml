@@ -1,0 +1,22 @@
+name: Python DSA Checks
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  syntax-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Compile Python solutions
+        run: |
+          python -m compileall -q .
+          echo "All Python files passed compilation."
