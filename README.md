@@ -1,4 +1,6 @@
-# Data Structures & Algorithms 🚀
+# 🧠 Data Structures & Algorithms
+
+A structured collection of **data structures, algorithms and interview-focused problem solving in Java**.
 
 A hands-on collection of **Data Structures and Algorithms implementations in Java**, built for learning, interview preparation and problem solving.
 
